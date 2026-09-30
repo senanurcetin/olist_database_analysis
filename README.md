@@ -2,6 +2,8 @@
 
 ![entity_olist](olist_entity.svg)
 
+**Kaggle notebook (aynı veri seti):** [Olist: p = 0 Is Not a Finding](https://www.kaggle.com/code/senanuretin/olist-p-0-is-not-a-finding) — üç klasik hipotez testinin etki büyüklükleriyle yeniden değerlendirilmesi.
+
 ### **Hakkında**
 
 *`Olist` Brezilya'nın en büyük mağazası olup, Brezilya'nın her yerinden küçük işletmeleri birbirine bağlar.
