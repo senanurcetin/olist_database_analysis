@@ -33,7 +33,7 @@ createdb olist
 psql -d olist -f create_table.sql
 ```
 
-**Important:** `import_data.sql` contains `\\copy` commands with an original contributor's absolute local paths (`/home/sena/...`). **Before importing, update those paths** to the absolute path of your local `olist_data/` directory, then execute:
+**Important:** `import_data.sql` contains `\\copy` commands with an original contributor's absolute local paths (for example, a previous machine's home-directory path). **Before importing, update those paths** to the absolute path of your local `olist_data/` directory, then execute:
 
 ```bash
 psql -d olist -f import_data.sql
