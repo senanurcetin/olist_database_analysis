@@ -1,5 +1,7 @@
 # Olist E-commerce Database & Customer Analytics
 
+**One-minute reviewer brief:** [Schema, reproducible analyses and scope](docs/hiring-summary.md).
+
 **PostgreSQL · SQL · Python notebooks · Customer, seller, product and order analytics**
 
 A relational analysis of the public [Brazilian E-Commerce dataset by Olist](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce), covering approximately 100,000 orders from 2016–2018. This project recreates the relational schema and explores order frequency, customer patterns, merchant contribution and product performance.
