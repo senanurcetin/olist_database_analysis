@@ -1,6 +1,6 @@
 # Olist E-commerce Database & Customer Analytics
 
-**One-minute reviewer brief:** [Schema, reproducible analyses and scope](docs/hiring-summary.md).
+**Technical sources:** [database schema](create_table.sql) · [import script](import_data.sql) · [customer analysis](Customer_analysis/README.md).
 
 **PostgreSQL · SQL · Python notebooks · Customer, seller, product and order analytics**
 
